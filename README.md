@@ -13,7 +13,7 @@
 
 - 🔭 **Currently working on:** Advanced Backend Systems and ERP integrations.
 - 🌱 **Learning:** Cloud Architecture and System Design.
-- 👨‍💻 **Portfolio:** [ephrem-habtamu.vercel.app](https://my-portfolio-zvbw.vercel.app/)
+- 👨‍💻 **Portfolio:** [my-portfolio-zvbw.vercel.app](https://my-portfolio-zvbw.vercel.app/)
 - 💬 **Ask me about:** React, Python, Django, Frappe, ERPNext and Database Management.
 - ⚡ **Fun fact:** I find solving complex bugs strangely therapeutic.
 
