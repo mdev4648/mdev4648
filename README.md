@@ -50,7 +50,7 @@
 
 ### Databases & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,postman,git,figma" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,PostgreSQL,postman,git,figma" />
 </p>
 
 ---
