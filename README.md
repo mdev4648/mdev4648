@@ -40,7 +40,7 @@
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,cpp,python,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" />
 </p>
 
 ### Frameworks & Libraries
