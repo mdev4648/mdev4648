@@ -45,7 +45,7 @@
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,tailwind,flutter" />
+  <img src="https://skillicons.dev/icons?i=react,django,redux,nodejs,express,tailwind,flutter" />
 </p>
 
 ### Databases & Tools
